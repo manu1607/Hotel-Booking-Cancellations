@@ -109,5 +109,3 @@ This project demonstrates a strong foundation in business analytics, showcasing:
 - The ability to process and analyze data to uncover actionable insights.
 - Skills in creating professional and interactive dashboards.
 - Effective communication of data-driven findings to inform strategic decisions.
-
-## Repository Structure
